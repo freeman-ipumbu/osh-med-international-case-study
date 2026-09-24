@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">OSH-Med International Academy</title>
+  <desc id="desc">A geometric safety shield with a medical cross and forward arrow</desc>
+  <path fill="#061827" d="M8 0h68l20 20v68l-8 8H20L0 76V8z"/>
+  <path fill="#f6dd3c" d="M20 18h40v12H32v28H20z"/>
+  <path fill="#16a7e0" d="M40 38h36v12H58v18H46V50h-6z"/>
+  <path fill="#fff" d="M68 18h12v12H68z"/>
+  <circle cx="24" cy="72" r="7" fill="#f0443e" stroke="#fff" stroke-width="3"/>
+  <path fill="none" stroke="#f6dd3c" stroke-linecap="square" stroke-width="4" d="M37 74h35l8-8"/>
+</svg>
+
