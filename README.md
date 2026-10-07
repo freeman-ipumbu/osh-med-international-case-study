@@ -11,7 +11,7 @@
   ·
   <a href="https://www.osh-med.pro/course-calendar-2">Official course calendar</a>
   ·
-  <a href="https://freeman-ipumbu.pages.dev/">SolarSpin Technologies</a>
+  <a href="https://solarspin-namibia.pages.dev/">SolarSpin Technologies</a>
 </p>
 
 ![OSH-Med International academy experience](assets/osh-med-academy-desktop.png)
@@ -50,7 +50,7 @@ The production build was verified at **320, 360, 390, 430, 768 and 1440 px** wit
 
 ## Delivery
 
-- **Experience design, identity direction and development:** [SolarSpin Technologies](https://freeman-ipumbu.pages.dev/)
+- **Experience design, identity direction and development:** [SolarSpin Technologies](https://solarspin-namibia.pages.dev/)
 - **Production source:** maintained in a private repository
 - **Hosting:** Cloudflare Pages
 - **Public repository:** case study and approved launch imagery only
